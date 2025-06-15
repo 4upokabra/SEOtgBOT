@@ -125,10 +125,3 @@ HUGGINGFACE_TOKEN=токен_huggingface
 3. Улучшение точности определения настроений
 4. Добавление новых метрик
 
-## Лицензия
-MIT License
-
-## Контакты
-- Email: support@example.com
-- Telegram: @support_bot
-- GitHub: github.com/your-repo 
