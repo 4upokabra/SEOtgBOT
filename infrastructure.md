@@ -45,9 +45,9 @@ graph TB
     LS --> EX
 
     %% Стили
-    classDef default fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef database fill:#bbf,stroke:#333,stroke-width:2px;
-    classDef external fill:#bfb,stroke:#333,stroke-width:2px;
+    classDef default fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#01579b;
+    classDef database fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#2e7d32;
+    classDef external fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100;
     
     class DB database;
     class TG,EX external;
